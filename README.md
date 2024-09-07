@@ -18,3 +18,5 @@ where -o is the path for storing output, -t is the path to train.txt which is a 
 Use one line for each subject. -v is the path to validation.txt where you add paths of 5-20 subjects used for validation.
 
 If you are modifying the input resolution, you need to make changes in io.py and model.py. Train.py will remain unchanged.
+
+Similar to topofit, download the file neighbourhoods.npz and store it in the topofit subdirectory.
