@@ -20,3 +20,6 @@ Use one line for each subject. -v is the path to validation.txt where you add pa
 If you are modifying the input resolution, you need to make changes in io.py and model.py. Train.py will remain unchanged.
 
 Similar to topofit, download the file neighbourhoods.npz and store it in the topofit subdirectory.
+
+
+Suggested Environment: Python 3.10.14, PyTorch 1.11.0 compiled with CUDA 11.5
