@@ -1,1 +1,2 @@
-# Seg_map-topo
+# Topofit w/ One hot Encoded Segmentation Map
+
