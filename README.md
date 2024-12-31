@@ -1,4 +1,4 @@
-# Topofit w/ One hot Encoded Segmentation Map
+# Supervised Cortical Surface Reconstructionw/ One hot Encoded Segmentation Map
 
 To download the ground truths: use the following `wget` command:
 
